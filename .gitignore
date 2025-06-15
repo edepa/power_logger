@@ -1,0 +1,9 @@
+# Ignore virtual environment
+powerlogger-env/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# Data/output
+*.csv
